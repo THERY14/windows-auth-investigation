@@ -1,0 +1,6 @@
+utc,event_id,host,account,source_ip,logon_type,status
+2026-01-12T10:28:14Z,4625,lab-ws-04,lab-user,192.0.2.45,3,0xC000006D
+2026-01-12T10:28:34Z,4625,lab-ws-04,lab-user,192.0.2.45,3,0xC000006D
+2026-01-12T10:29:02Z,4625,lab-ws-04,lab-user,192.0.2.45,3,0xC000006D
+2026-01-12T10:29:25Z,4624,lab-ws-04,lab-user,192.0.2.45,3,
+2026-01-12T10:29:37Z,4624,lab-ws-09,lab-other,192.0.2.90,3,
